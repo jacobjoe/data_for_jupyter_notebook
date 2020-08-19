@@ -1,0 +1,17 @@
+Company,Job,Degree,Salary_more_than_100k
+google,sales executive,bachelor,0
+google,sales executive,master,0
+google,bussiness manager,bachelor,1
+google,bussiness manager,master,1
+google,computer programmer,bachelor,0
+google,computer programmer,master,1
+abc pharma,sales executive,master,0
+abc pharma,computer programmer,bachelor,0
+abc pharma,bussiness manager,bachelor,0
+abc pharma,bussiness manager,master,1
+facebook,sales executive,bachelor,1
+facebook,sales executive,master,1
+facebook,bussiness manager,bachelor,1
+facebook,bussiness manager,master,1
+facebook,computer programmer,bachelor,1
+facebook,computer programmer,master,1
